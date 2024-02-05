@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pokemon.micelaneos",
+      "sha256_cert_fingerprints":
+      ["C4:5A:EB:2B:2C:73:8F:FD:1C:AC:49:42:70:26:1C:F8:C3:58:A9:B9:86:CF:04:7B:22:11:AF:12:C7:32:3A:B0"]
+    }
+  }]
+  
